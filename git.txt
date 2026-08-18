@@ -1,4 +1,7 @@
 
+
+git init
+
 git config --global user.name. “Enrique Cabral”
 git config --global user.email
 git config --global --list
@@ -43,3 +46,25 @@ Untracked  - git sees the file but git is not tracking it yet
 Modified – git is tracking this file but you have changes it . I have changed it 
 Staged – init add  you changed the file and told git that ‘I want this change in my next commit’. I selected it for next commit.
 Unmodified – the file is being tracked and nothing has been chnaged since last commit
+
+
+
+Git has mainly 3 important Areas:Working directory  (calc.py)  git add  Staging Area (Ready to commit)  git commit –m ‘added percentage ’  Repository (permanent history) .git
+
+Git-calculator –
+ - calculator.py (commit v1)- do changes here after v1  git status  modified 
+ - abc.py (untracked )
+
+Status :
+
+Untracked  - git sees the file but git is not tracking it yet
+Modified – git is tracking this file but you have changes it . I have changed it 
+Staged – init add  you changed the file and told git that ‘I want this change in my next commit’. I selected it for next commit.
+Unmodified – the file is being tracked and nothing has been chnaged since last commit
+
+Somya Barolia
+11:53 AM
+new file (Untracked) --> git add --> STAGED --> git commit --> UNMODIFIED --> edit the file --> MODIFIED --> git add --> STAGED --> git commit --> UNMODIFIED
+
+
+git log --onelin
