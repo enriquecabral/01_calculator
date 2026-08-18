@@ -68,3 +68,21 @@ new file (Untracked) --> git add --> STAGED --> git commit --> UNMODIFIED --> ed
 
 
 git log --onelin
+
+
+Git flow:
+
+We write code
+     ↓
+Working Directory
+     ↓
+git add
+     ↓
+Staging Area
+     ↓
+git commit
+     ↓
+Git Repository
+
+
+Module-01/frontend/git-calculator
