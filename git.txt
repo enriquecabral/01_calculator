@@ -106,3 +106,31 @@ ecabral@MacBook-Pro git-calculator % git log --oneline
 fd9500d Update README.md
 534fe9b Initial commit
 ecabral@MacBook-Pro git-calculator % 
+
+git config --global user.name
+git config --global user.email
+
+Somya Barolia
+10:27 AM
+git config --global user.name "Enrique Cabral"
+git config --global user.email "ecabral@gmail.com"
+git config --global user.name
+git config --global user.email
+
+Somya Barolia
+10:31 AM
+git config --global --list
+
+dir -Force
+Get-ChildItem .\__pycache__ -Force
+
+Somya Barolia
+10:44 AM
+defaults write com.apple.finder AppleShowAllFiles -bool true
+killall Finder
+
+Somya Barolia
+10:46 AM
+ls -la
+ls -la __pycache__
+

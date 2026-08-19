@@ -18,7 +18,6 @@ elif operation =="/":
 else:
     print("Invalid Operation")
 
-    
 
 
 
