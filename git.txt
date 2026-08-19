@@ -90,3 +90,19 @@ Module-01/frontend/git-calculator
 Aug 19
 
 
+
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+ecabral@MacBook-Pro git-calculator % git status
+On branch main
+nothing to commit, working tree clean
+ecabral@MacBook-Pro git-calculator % gti log -- oneline
+zsh: command not found: gti
+ecabral@MacBook-Pro git-calculator % git log --oneline
+03f04ae (HEAD -> main) change path
+530ca24 (origin/main) file update3.    /we gave repo name to origin 
+9ccd395 change name
+2dcf003 added hello
+2bc10fb Update README.md
+fd9500d Update README.md
+534fe9b Initial commit
+ecabral@MacBook-Pro git-calculator % 
