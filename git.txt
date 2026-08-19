@@ -134,3 +134,13 @@ Somya Barolia
 ls -la
 ls -la __pycache__
 
+git rm -r --cached __pycache__
+
+Somya Barolia
+11:18 AM
+.gitignore is a list of things that belong in our project folder but should not belong in our Git repository...
+__pycache__ is one example because Python creates it automatically and it can be recreated whenever needed...
+
+Somya Barolia
+11:21 AM
+git remote -v
