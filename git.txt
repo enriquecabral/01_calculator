@@ -110,6 +110,9 @@ ecabral@MacBook-Pro git-calculator %
 git config --global user.name
 git config --global user.email
 
+
+aug 20
+
 Somya Barolia
 10:27 AM
 git config --global user.name "Enrique Cabral"
@@ -153,3 +156,14 @@ git branch feature-improvement
 git branch
 git branch feature-improvement  - this command is to create a new branch
 
+:q!
+Quit without saving
+You opened a file and  changed something..  but you don't want to keep the changes. Use ECS :q!
+
+:qw! -->Save the file and quit
+
+git switch -c feature-improvement1
+
+Somya Barolia
+9:27 AM
+git branch -d  feature-improvement1
