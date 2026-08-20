@@ -167,3 +167,20 @@ git switch -c feature-improvement1
 Somya Barolia
 9:27 AM
 git branch -d  feature-improvement1
+
+when pushed:
+
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Command	Meaning
+git branch	Show all branches
+git branch <name>	Create a new branch
+git switch <name>	Switch to an existing branch
+git switch -c <name>	Create a new branch and switch to it
+git branch -d <name>	Delete a branch
+
+git add .
