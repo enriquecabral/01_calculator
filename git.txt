@@ -144,3 +144,12 @@ __pycache__ is one example because Python creates it automatically and it can be
 Somya Barolia
 11:21 AM
 git remote -v
+
+git branch
+
+Somya Barolia
+11:42 AM
+git branch feature-improvement
+git branch
+git branch feature-improvement  - this command is to create a new branch
+
