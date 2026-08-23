@@ -1,8 +1,3 @@
-# 01_calculator
-my first github repository project
-
-some more details added
-
 
 # Git Calculator
 
@@ -33,3 +28,13 @@ A beginner-friendly calculator project built while learning Git and GitHub.
 - JavaScript
 - Git
 - GitHub
+
+## How to Run
+
+For the Python calculator:
+
+python3 calculator.py
+
+For the web calculator:
+
+Open index.html in your browser.
