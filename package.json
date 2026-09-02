@@ -1,0 +1,13 @@
+{
+  "name": "git-calculator",
+  "version": "1.0.0",
+  "description": "A beginner-friendly calculator project built while learning Git and GitHub.",
+  "main": "script.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
